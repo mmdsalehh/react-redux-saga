@@ -1,0 +1,1 @@
+export const GET_POSTS_ASYNC = "GET_POSTS_ASYNC";
